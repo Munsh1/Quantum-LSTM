@@ -1,4 +1,4 @@
-Quantum-Enhanced Part-of-Speech Tagger
+**Quantum-Enhanced Part-of-Speech Tagger**
 
 This project explores the application of quantum computing to enhance a part-of-speech (POS) tagger. It leverages PennyLane, a quantum machine learning library, and PyTorch to build and train the model.
 
@@ -9,7 +9,7 @@ Classical LSTM: A traditional Long Short-Term Memory (LSTM) network serves as th
 
 Quantum LSTM (QLSTM): This novel approach integrates a quantum circuit within the LSTM architecture. The quantum circuit is built using PennyLane and is designed to learn and process information in a quantum manner.
 
-Methodology
+Methodology:
 
 Data Preparation: A dataset of sentences with their corresponding POS tags is used to train and evaluate the models. Word-to-index and tag-to-index mappings are created for efficient data handling.
 
